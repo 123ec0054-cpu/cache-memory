@@ -1,9 +1,5 @@
 # Cache Memory Implementation in Verilog
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Verilog](https://img.shields.io/badge/Language-Verilog-blue.svg)](https://en.wikipedia.org/wiki/Verilog)
-[![Hardware](https://img.shields.io/badge/Type-RTL%20Design-green.svg)](https://en.wikipedia.org/wiki/Register-transfer_level)
-
 A highly configurable, synthesizable direct-mapped cache memory implementation in Verilog HDL for ASIC/FPGA designs and computer architecture education.
 
 ---
@@ -618,7 +614,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 Rishikiran
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -643,9 +639,10 @@ furnished to do so, subject to the following conditions:
 
 ## 📞 Contact & Support
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Author**: Rishikiran
+- **Email**: rihsikiranpamu723@gmail.com
+- **GitHub**: 123ec0054-cpu
+- https://github.com/ 123ec0054-cpu
 - **Documentation**: [Full docs](https://yourusername.github.io/cache-memory-verilog)
 - **Issues**: [Report bugs](https://github.com/yourusername/cache-memory-verilog/issues)
 - **Discussions**: [Join community](https://github.com/yourusername/cache-memory-verilog/discussions)
@@ -676,12 +673,3 @@ furnished to do so, subject to the following conditions:
 
 **⭐ Star this repository if you find it helpful! ⭐**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/cache-memory-verilog?style=social)](https://github.com/yourusername/cache-memory-verilog/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/cache-memory-verilog?style=social)](https://github.com/yourusername/cache-memory-verilog/network/members)
-[![GitHub watchers](https://img.shields.io/github/watchers/yourusername/cache-memory-verilog?style=social)](https://github.com/yourusername/cache-memory-verilog/watchers)
-
-Made with ❤️ for the hardware design community
-
-[⬆ Back to Top](#cache-memory-implementation-in-verilog)
-
-</div>
